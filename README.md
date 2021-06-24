@@ -2,9 +2,9 @@
 
 These are my macros my players use in game, a large majority of them written for Midi-qol or DAE usage. I am sure there are better ways to write some of them. I am totally open if you got any suggestions how to make these better. if you need to contact me, hit me up on `Crymic#9452` or @ me on `Foundry Discord`. Special thanks to @Tposney, @Kekilla0, @Kandashi, @VanceCole for helping me along the way.
 
-If you wish to support what I am doing, head over to my **[Patreon](https://www.patreon.com/bePatron?u=36173099)**.
+If you wish to support what I am doing, head over to my **[Patreon](https://www.patreon.com/crymic)**.
 
-I am now uploading all new macros for my Patreon's first, then after the "early release" period is over. They will be published here.
+I am now uploading all new macros for my Foundry 8.x to Patreon. Older 7.x macros are listed on my [Gitlab](https://gitlab.com/crymic/foundry-vtt-macros) account.
 
 ![Dynamic Active Effects](https://img.shields.io/badge/Dynamic%20Active%20Effects-Required-red)
 ![Midi-Qol](https://img.shields.io/badge/Midi--Qol-Required-red)
