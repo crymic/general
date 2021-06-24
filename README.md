@@ -4,7 +4,7 @@ These are my macros my players use in game, a large majority of them written for
 
 If you wish to support what I am doing, head over to my **[Patreon](https://www.patreon.com/crymic)**.
 
-I am now uploading all new macros for my Foundry 8.x to Patreon. Older 7.x macros are listed on my [Gitlab](https://gitlab.com/crymic/foundry-vtt-macros) account.
+I am now uploading all new macros for Foundry 8.x to Patreon. Older 7.x macros are listed on my [Gitlab](https://gitlab.com/crymic/foundry-vtt-macros) account.
 
 ![Dynamic Active Effects](https://img.shields.io/badge/Dynamic%20Active%20Effects-Required-red)
 ![Midi-Qol](https://img.shields.io/badge/Midi--Qol-Required-red)
